@@ -1,7 +1,7 @@
 About SideFlipSaga
 ==================
 
-![A rabbit](/rabbit.jpeg)
+![A rabbit](Images/rabbit.jpeg)
 
 This is Sideflipsaga made by Gabe and now Jacob
 
